@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"> Bicycle Safety App </string>
+    <string name="home"> TIPS </string>
+    <string name="registrar"> REGISTRARSE </string>
+    <string name="perfil"> PERFIL </string>
+    <string name="escanear"> ESCANEAR QR </string>
+    <string name="regbici"> REGISTRAR BICICLETA </string>
+    <string name="generarQR"> GENERAR QR </string>
+    <string name="datos"> DATOS DE LA BICICLETA </string>
+
+</resources>
